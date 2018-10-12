@@ -4,6 +4,7 @@ owner:
   lastname: "Madineni"
   hid: "fa18-523-82"
   community: "I523"
+  
 technologies:
  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/puppet.md
  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/petsc.md
@@ -11,3 +12,14 @@ technologies:
  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/blinkdb.md
  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/lustre.md
  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/pregel.md
+ 
+ Paper:
+  title: Watson Analytics
+  url: TBD
+  group: N/A
+
+project:
+  title: Watson Analytics
+  url: https://github.com/cloudmesh-community/fa18-523-81/blob/master/Project/Project-Proposal.md
+  group: Fa18-523-81
+  code: TBD
