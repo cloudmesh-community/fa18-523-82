@@ -15,7 +15,7 @@ paper:
   - title: Watson Analytics
     url: https://github.com/cloudmesh-community/fa18-523-82/blob/master/Paper/Paper.md
 project:
-  - title: Watson Analytics
+  - title: Analysis of Global Commodity Statistics using PySpark and Watson Analytics
   - url: https://github.com/cloudmesh-community/fa18-523-81/blob/master/Project/Project-Proposal.md
   - group: Fa18-523-81
   - code: TBD
