@@ -3,7 +3,7 @@ owner:
   firstname: "Pavan Kumar"
   lastname: "Madineni"
   hid: "fa18-523-82"
-  community: "I523"
+  community: "i523"
 technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/puppet.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/petsc.md
@@ -13,9 +13,11 @@ technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/pregel.md
 paper:
   - title: Watson Analytics
+    keyword: Watson
     url: https://github.com/cloudmesh-community/fa18-523-82/blob/master/Paper/Paper.md
 project:
   - title: Analysis of Global Commodity Statistics using PySpark and Watson Analytics
-  - url: https://github.com/cloudmesh-community/fa18-523-81/blob/master/Project/Project-Proposal.md
-  - group: Fa18-523-81
-  - code: TBD
+    keyword: Watson PySpark
+    url: https://github.com/cloudmesh-community/fa18-523-81/blob/master/Project/Project-Proposal.md
+    group: fa18-523-81
+    code: TBD
