@@ -1,5 +1,10 @@
 # IBM Watson and its Services :hand: fa18-523-82
 
+:o: format incorrect
+
+| github: [:cloud:](https://github.com/cloudmesh-community/fa18-523-82/edit/master/paper/paper.md)
+
+
 ## Abstract
 
 As the world continues to become more social, the data is ought to grow, and competitive advantage is to those who utilize the data better than their peers and can directly connect it to their business outcomes and other useful pursuits. Therefore, to play a competitive role in the field of business, there is an immense need for tools and processes, which help to collect all the required data generated across numerous platforms easily, to store, manage, manipulate, aggregate, analyze and integrate the data which help in making insightful business decisions.
