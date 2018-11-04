@@ -15,10 +15,10 @@ technologies:
 paper:
   - title: Watson Analytics
     keyword: Watson
-    url: https://github.com/cloudmesh-community/fa18-523-82/blob/master/Paper/Paper.md
+    url: https://github.com/cloudmesh-community/fa18-523-82/blob/master/paper/paper.md
 project:
   - title: Analysis of Global Commodity Statistics using PySpark and Watson Analytics
     keyword: Watson PySpark
-    url: https://github.com/cloudmesh-community/fa18-523-81/blob/master/Project/Project-Proposal.md
+    url: TBD
     group: fa18-523-81
     code: TBD
