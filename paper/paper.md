@@ -2,6 +2,8 @@
 
 :o: format incorrect
 
+:o: abstract does not tell me what watson is so i stopped reading, you should start with similar outline such as summaries and than go in details
+
 | github: [:cloud:](https://github.com/cloudmesh-community/fa18-523-82/edit/master/paper/paper.md)
 
 
