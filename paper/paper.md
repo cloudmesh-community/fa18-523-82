@@ -1,4 +1,4 @@
-# IBM Watson and its Services :hand: fa18-523-82
+# IBM Watson and its Services :wave: fa18-523-82
 
 :o: please use our format as listed in the sample, mentioned before
 
