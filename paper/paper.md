@@ -1,4 +1,4 @@
-# IBM Watson Construction and its Services :smiley:  fa18-523-82
+# IBM Watson Construction and its Services :wave:
 
 | Pavan Kumar Madineni
 | pmadinen@iu.edu
